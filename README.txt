@@ -1,7 +1,7 @@
 Plantify
 Maceta Inteligente — Monitor Ambiental de Salud
 
-Hunter Electronics · 2025
+Hunter Electronics · 2026
 ---
 
 ## ¿Qué es Plantify?
